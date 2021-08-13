@@ -9,7 +9,7 @@ También, mostrar los issues de un repositorio en una sección separada en la UI
 * Usa las mejores prácticas en la escritura de JavaScript, CSS/SASS y HTML.
 * Separa las estructura de forma clara en distintas directivas/componentes.
 
-Bonus: Añade otra sección con un grafico (usando una librería de gráficos ya existente) para visualizar para el número de forks, issues, stars, etc.
+Bonus: Añade otra sección con un grafico (usando una librería de gráficos ya existente) para visualizar el número de forks, issues, stars, etc.
 
 Algunas URLs útiles:
 
