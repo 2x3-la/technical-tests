@@ -1,6 +1,6 @@
 # Desafió
 
-Escribe una SPA usando AngularJS. El objetivo de la aplicación es permitir a un usuario buscar en un repositorio por texto y mostrar la información relevante del repositorio como la URL, descripción, numero de forks, numero de stars, numero de issues abiertos, etc.
+Crea una SPA usando AngularJS. El objetivo de la aplicación es permitir a un usuario buscar en un repositorio por texto y mostrar la información relevante del repositorio como la URL, descripción, numero de forks, numero de stars, numero de issues abiertos, etc.
 
 También, mostrar los issues de un repositorio en una sección separada en la UI:
 
