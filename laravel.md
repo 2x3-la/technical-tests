@@ -3,7 +3,7 @@
 El proposito de este desafío es demostrar y seguir los siguientes puntos:
 
 - Generar código PHP decente y mantenible
-- Utilizar el framework Laravel 5.x - 6.x
+- Utilizar el framework Laravel 8.x - 9.x
 - Utilizar siempre que se pueda el ORM de Laravel (Eloquent)
 - Respetar las definiciones en modelos tal como lo propone el Framework
 - Uso de colas y events / listeners
