@@ -68,6 +68,9 @@ Para la generación de clientes, no es necesario contar con un endpoint, pero qu
 
 - **No** es necesario levantar el proyecto en un servidor web, basta con enviarnos el repositorio para revisarlo.
 
+### Instrucciones recomendadas
+- Valoramos mucho el mantener una buena estructura del proyecto, con lógicas de negocio separadas y organizadas como tambien lo bien que esté comentado, organizado y legible para otras personas, por ende recomendamos ampliamente demostrar estas capacidades en tu prueba, no son razones totalmente excluyentes pero si muy valoradas e importantes.
+
 ### Lógica de Negocio
 
 - Al crear un nuevo pago, deberas lanzar un proceso en background utilizando **Jobs** de Laravel, en el cual consulte la siguiente API https://mindicador.cl/api/dolar y almacene el valor del día en el cual se genero en el pago que se creó, el driver de **queues** queda en tu decisión.
