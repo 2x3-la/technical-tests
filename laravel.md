@@ -30,7 +30,7 @@ En términos técnicos, deberás generar 3 endpoints, los cuales deberan retorna
 			"payment_date": null,
 			"expires_at": "2019-01-01"
 			"status": "pending",
-			"user_id": ?,
+			"client_id": ?,
 			"clp_usd": 810,
 		},
 		{
@@ -38,7 +38,7 @@ En términos técnicos, deberás generar 3 endpoints, los cuales deberan retorna
 			"payment_date": "2019-12-01",
 			"expires_at": "2020-01-01"
 			"status": "paid",
-			"user_id": ?
+			"client_id": ?
 			"clp_usd": 820,
 		}
 	]
@@ -48,7 +48,7 @@ En términos técnicos, deberás generar 3 endpoints, los cuales deberan retorna
 		"payment_date": null,
 		"expires_at": "2020-02-26"
 		"status": "pending",
-		"user_id": ?,
+		"client_id": ?,
 		"clp_usd": null,
 	}
 	
